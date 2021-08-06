@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1628110189 source:d:\programming\my_programs\ball_on_oscillating_plane\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<cmath>
+	<random>
+
+1628280393 source:d:\Університет навчання\Літо 2021\Практикум з теоретичної фізики\Задача_2_решение\ball_on_oscillating_plane\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<cmath>
+	<random>
+	<ctime>
+
